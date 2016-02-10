@@ -1,6 +1,27 @@
+.masthead {
+  /*border: 4px solid black;*/
+  width: 90%;
+  height: 80%;
+  -webkit-box-shadow: -15px -8px 7px -2px rgba(0,0,0,0.71);
+  -moz-box-shadow: -15px -8px 7px -2px rgba(0,0,0,0.71);
+  box-shadow: -15px -8px 7px -2px rgba(0,0,0,0.71);
+  background-color: #eb6b55;
+  color: white;
+  margin-top: 5%;
+  text-align: center;
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+.masthead h1 {
+  font-size: 5vw;
+
+}
+
 .map{
   position: absolute;
-  margin-top: 15%;
+  margin-top: 3%;
 }
 
 #world {
@@ -13,6 +34,7 @@
 
 .mapImages {
   position: relative;
+  margin-top: 3%;
   width: 100%;
   height: auto;
 }
