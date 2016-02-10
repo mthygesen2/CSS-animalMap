@@ -41,7 +41,7 @@
 }
 
 .mapImages img {
-  width: 45%;
+  width: 40%;
   height: auto;
   border-radius: 6%
 }
@@ -53,8 +53,17 @@
 
 .africa {
   position: absolute;
-  bottom: 60%;
-  left: 47.5%;
+  bottom: 35%;
+  left: 45%;
+}
+
+#africa {
+  position: relative;
+ -webkit-transform: rotate(290deg);
+ width: 30%;
+ height: auto;
+ bottom: 45%;
+ left: 30%;
 }
 
 .antarctica {
