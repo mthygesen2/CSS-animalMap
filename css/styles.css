@@ -72,34 +72,84 @@
   left: 47.5%;
 }
 
+#antarctica {
+  position: relative;
+ -webkit-transform: rotate(70deg);
+ width: 30%;
+ height: auto;
+ top: 90%;
+ left: 50%;
+}
+
 .asia {
   position: absolute;
   bottom: 75%;
   left: 70%;
 }
 
+#asia {
+  position: relative;
+ -webkit-transform: rotate(135deg);
+ width: 30%;
+ height: auto;
+ top: 90%;
+ left: 10%;
+}
+
 .australia {
   position: absolute;
-  bottom: 30%;
-  left: 77%;
+  bottom: 25%;
+  left: 70%;
+}
+#australia {
+  position: relative;
+ -webkit-transform: rotate(30deg);
+ width: 30%;
+ height: auto;
+ top: 90%;
+ left: 30%;
 }
 
 .centralamerica {
   position: absolute;
-  bottom: 50%;
+  bottom: 30%;
   left: 20.5%;
+}
+#centralamerica {
+  position: relative;
+ -webkit-transform: rotate(290deg);
+ width: 30%;
+ height: auto;
+ bottom: 45%;
+ left: 30%;
 }
 
 .europe {
   position: absolute;
   bottom: 80%;
-  left: 50.5%;
+  left: 45%;
 }
 
+#europe {
+  position: relative;
+ -webkit-transform: rotate(50deg);
+ width: 30%;
+ height: auto;
+ top: 90%;
+ left: 20%;
+}
 .middleEast {
   position: absolute;
   bottom: 70%;
   left: 56.5%;
+}
+#middleEast {
+  position: relative;
+ -webkit-transform: rotate(130deg);
+ width: 30%;
+ height: auto;
+ top: 90%;
+ left: 20%;
 }
 
 .northAmerica {
@@ -107,14 +157,38 @@
   bottom: 75%;
   left: 15.5%;
 }
+#northAmerica {
+  position: relative;
+ -webkit-transform: rotate(60deg);
+ width: 30%;
+ height: auto;
+ top: 90%;
+ left: 20%;
+}
 
 .southAmerica {
   position: absolute;
   bottom: 50%;
   left: 30.5%;
 }
+#southAmerica {
+  position: relative;
+ -webkit-transform: rotate(130deg);
+ width: 30%;
+ height: auto;
+ top: 90%;
+ left: 20%;
+}
 .oceania {
   position: absolute;
   bottom: 34%;
   left: 86%;
+}
+#oceania {
+  position: relative;
+ -webkit-transform: rotate(130deg);
+ width: 30%;
+ height: auto;
+ top: 90%;
+ left: 20%;
 }
